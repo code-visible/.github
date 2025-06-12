@@ -37,6 +37,3 @@ Currently supported or developing language and parsers.
 
 [code visible protocol definition](https://github.com/code-visible/protocol)
 
-## LICENSE
-
-Code Visible Project is licensed under the GPL-3.0 License.
